@@ -2,7 +2,7 @@
 from http.server import HTTPServer, SimpleHTTPRequestHandler
 
 # Define some variables.
-ip = '0.0.0.0'
+ip = "0.0.0.0"
 port = 8000
 server_address = (ip, port)
 
